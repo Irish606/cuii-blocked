@@ -4,7 +4,6 @@ Dieses Repository enthält eine Liste von Webseiten, die durch die Selbstregulie
 
 Internetnutzer in Deutschland mit folgenden Providern können diese Webseiten nicht mehr aufrufen:
 - MOBILCOM-DEBITEL GMBH
-- STM
 - TELEFÓNICA GERMANY GMBH & CO. OHG
 - TELEKOM DEUTSCHLAND GMBH
 - VODAFONE DEUTSCHLAND GMBH
