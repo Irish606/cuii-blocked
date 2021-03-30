@@ -1,5 +1,5 @@
 # cuii-blocked
-Dieses Repository enthält eine Liste von Webseiten, die durch die Selbstregulierung Informationswirtschaft e.V. gesperrt werden. Eine solche Netzsperre erfolgt ohne eine gerichtliche Beteiligung. Die Sperrung erfolgt nach einer Empfehlung eines Expertengremium der Selbstregulierung Informationswirtschaft e.V. und Bestätigung der Sperrung durch die Bundesnetzagentur.
+Dieses Repository enthält eine Liste von Webseiten, die durch die Selbstregulierung Informationswirtschaft e.V. für eine DNS-Sperrung empfohlen und folglich durch die Mitglieder des Vereins gesperrt wurden. Eine solche Netzsperre erfolgt ohne eine gerichtliche Beteiligung. Die Sperrung erfolgt nach einer Empfehlung eines dreiköpfigen Expertengremiums der Selbstregulierung Informationswirtschaft e.V. und einer Bestätigung der Sperrung durch die Bundesnetzagentur.
 
 
 Internetnutzer in Deutschland mit folgenden Providern können diese Webseiten nicht mehr aufrufen:
