@@ -10,5 +10,8 @@ Internetnutzer in Deutschland mit folgenden Providern können diese Webseiten ni
 - VODAFONE DEUTSCHLAND GMBH
 
 Der Selbstregulierung Informationswirtschaft e.V schreibt zu dieser drastischen Maßnahme:
+
+
 `Rechteinhaber und Internetzugangsanbieter haben einen Verhaltenskodex unterzeichnet. In diesem haben sie sich auf ein freiwilliges Verfahren zur Sperrung des Zugangs zu strukturell urheberrechtsverletzenden Webseiten (nachfolgend auch: SUWs) geeinigt. Hiermit sollen in Bezug auf solche Anbieter gerichtliche Auseinandersetzungen zwischen Rechteinhabern und Internetzugangsanbietern vermieden und DNS-Sperren effektiv und zügig umgesetzt werden können. Der Verhaltenskodex sieht vor, dass eine unabhängige Clearingstelle Urheberrecht im Internet (CUII) eingerichtet wird, welche die Sperranträge der Rechteinhaber nach objektiven Kriterien prüft.` 
+
 (vgl. https://cuii.info/faq/)
