@@ -5,3 +5,5 @@ http://serienstream.sx/
 http://serienstream.to/
 
 http://serien.sx/
+
+http://canna.to/
