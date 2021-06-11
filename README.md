@@ -18,3 +18,4 @@ Der Selbstregulierung Informationswirtschaft e.V schreibt zu dieser drastischen 
 Geschwärzte Sperr-Empfehlungen des Selbstregulierung Informationswirtschaft e.V:
 - https://cuii.info/fileadmin/files/Empfehlung_01-2021_geschwaerzt.pdf
 - https://cuii.info/fileadmin/files/Empfehlung_02-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_04-2021_geschwaerzt.pdf
