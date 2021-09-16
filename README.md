@@ -19,3 +19,6 @@ Geschwärzte Sperr-Empfehlungen des Selbstregulierung Informationswirtschaft e.V
 - https://cuii.info/fileadmin/files/Empfehlung_01-2021_geschwaerzt.pdf
 - https://cuii.info/fileadmin/files/Empfehlung_02-2021_geschwaerzt.pdf
 - https://cuii.info/fileadmin/files/Empfehlung_04-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_06-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_07-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_08-2021_geschwaerzt.pdf
