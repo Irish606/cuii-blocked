@@ -22,3 +22,17 @@ Geschwärzte Sperr-Empfehlungen des Selbstregulierung Informationswirtschaft e.V
 - https://cuii.info/fileadmin/files/Empfehlung_06-2021_geschwaerzt.pdf
 - https://cuii.info/fileadmin/files/Empfehlung_07-2021_geschwaerzt.pdf
 - https://cuii.info/fileadmin/files/Empfehlung_08-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_09-2021_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_01-2022_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_02-2022_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_03-2022_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_04-2022_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_01-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_02-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_03-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_04-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_05-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_06-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_07-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_08-2023_geschwaerzt.pdf
+- https://cuii.info/fileadmin/files/Empfehlung_01-2024_geschwaerzt.pdf
